@@ -98,27 +98,27 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 - [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) - выводящая отчёт о работающих процессах.
 - [pwd](https://en.wikipedia.org/wiki/Pwd) - консольная утилита в UNIX-подобных системах, которая выводит полный путь от корневого каталога к текущему рабочему .
 - [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) - позволяет удалять файлы и обьекты.
-- [sed](https://en.wikipedia.org/wiki/Sed) - 
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))
+- [sed](https://en.wikipedia.org/wiki/Sed) -  потоковый текстовый редактор (а также язык программирования).
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) - команда Unix, предназначенная для установки времени последнего изменения файла или доступа в текущее время.
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)
-- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)
-- [npm](https://docs.npmjs.com)
+- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru) - набор утилит для управления программными пакетами в операционных системах основанных на Debian.
+- [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh) - менеджер пакетов macOS для Linux.
+- [npm](https://docs.npmjs.com) - менеджер пакетов, входящий в состав Node.js
 
 ### Software
 
-- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
-- [clang](https://clang.llvm.org)
-- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
-- [make](https://en.wikipedia.org/wiki/Make_(software))
-- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
-- [openssl](https://www.openssl.org)
-- [nano](https://www.nano-editor.org)
-- [tree](https://linux.die.net/man/1/tree)
-- [vim](http://www.vim.org)
+- [curl](https://www.gitbook.com/book/bagder/everything-curl/details) - , позволяющая взаимодействовать с множеством различных серверов по множеству различных протоколов с синтаксисом URL.
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf) - свободная  консольная программа для загрузки файлов по сети.
+- [clang](https://clang.llvm.org) - является фронтендом для языков программирования C, C++, Objective-C, Objective-C++ (англ.) и OpenCL С.
+- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html) - компилятор.
+- [make](https://en.wikipedia.org/wiki/Make_(software)) - омпиляция исходного кода в объектные файлы и последующая компоновка в исполняемые файлы или библиотеки.
+- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) - позволяет открывать файлы.
+- [openssl](https://www.openssl.org) - Криптография и набор инструментов SSL / TLS.
+- [nano](https://www.nano-editor.org)- консольный текстовый редактор для UNIX.
+- [tree](https://linux.die.net/man/1/tree) -  программа для рекурсивного каталога.
+- [vim](http://www.vim.org) - текстовый редактор.
 
 ```
 Copyright (c) 2017 Братья Вершинины
