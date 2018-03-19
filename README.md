@@ -80,8 +80,8 @@ $ gistup -m "lab${LAB_NUMBER}" # enter: yes↵
 
 ### Unix commands
 
-- [ar](https://en.wikipedia.org/wiki/Ar_(Unix))
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix))
+- [ar](https://en.wikipedia.org/wiki/Ar_(Unix)) - стандартная утилита Unix, архиватор, не использующий сжатия данных.
+- [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) - утилита UNIX, выводящая последовательно указанные файлы (или устройства), таким                                                         образом, объединяя их в единый поток.
 - [cd](https://en.wikipedia.org/wiki/Cd_(command))
 - [cp](https://en.wikipedia.org/wiki/Cp_(Unix))
 - [cut](https://en.wikipedia.org/wiki/Cut_(Unix))
